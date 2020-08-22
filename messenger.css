@@ -1,0 +1,5 @@
+/* displays the recently (~2020.08.20) added blue facebook bar on messenger.com, restoring the original messenger appearance */
+/* to be used on URLs starting with https://www.facebook.com/messages */
+#pagelet_bluebar {
+    display: none;
+}
